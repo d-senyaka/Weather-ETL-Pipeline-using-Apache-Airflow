@@ -69,7 +69,7 @@ weather-etl-pipeline/
 
 ## 📄 License
 
-MIT
+MIT License
 
 ![image](https://github.com/user-attachments/assets/faaba995-203c-4872-babe-08312149fba5)
 ![image](https://github.com/user-attachments/assets/62117f06-0811-4359-831a-d8f520ad794b)
